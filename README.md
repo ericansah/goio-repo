@@ -32,7 +32,8 @@ Lodash
 React Native
 VUE.js
 Vite
-Next
+Next.js
+Gatsby
 
 
 
